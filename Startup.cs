@@ -6,6 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace netcore_template_react
 {
+    //rettt
     public class Startup
     {
         public Startup(IConfiguration configuration)
